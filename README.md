@@ -1,1 +1,1 @@
-# event-management
+Event Management mini project done using Java.
